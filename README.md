@@ -1,10 +1,10 @@
-# 🐍 Python Practice Tasks
-
-This repository contains solutions to Python exercises focused on improving problem-solving skills, logical thinking, and writing clean, readable code.
+# 🐍 Functions Bonus Exercises
 
 ---
 
 ## 📂 Included Tasks
+
+--- 
 
 ### 📍 1. Center Point
 **File:** [`center_point.py`](center_point.py)  
