@@ -24,7 +24,7 @@ Collection of small exercises related to:
 ---
 
 ### 📏 3. Longer Line
-**File:** [`longer_life.py`](longer_life.py)  
+**File:** [`longer_life.py`](longer_line.py)  
 Given four points forming two lines, the program:
 - Determines which line is longer
 - Prints the longer line
